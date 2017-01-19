@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "700017642161",
+    "firebase_url": "https://kelompokku-89d58.firebaseio.com",
+    "project_id": "kelompokku-89d58",
+    "storage_bucket": "kelompokku-89d58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700017642161:android:9be48c703fa30434",
+        "android_client_info": {
+          "package_name": "com.example.doeljack.kelompokku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700017642161-qkmrpbh4gi4ftc3eamijqaj2uv2dgaj4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doeljack.kelompokku",
+            "certificate_hash": "CA77A555970B83185A706698DAD13F6CF7E0E1FD"
+          }
+        },
+        {
+          "client_id": "700017642161-mae3pqfma7i6t7jms43pm3olf6j9di9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkxtpA08wiJeVAoTCcf9oOvqEy0F-punw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700017642161-mae3pqfma7i6t7jms43pm3olf6j9di9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
